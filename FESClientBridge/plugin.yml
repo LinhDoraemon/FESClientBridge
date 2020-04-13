@@ -1,0 +1,8 @@
+name: FESClientBridge
+version: EARLY-ACCESS-v1.0.1a
+author: FESStudio
+main: com.foureyes.bukkit.FESClientBridge
+api-version: 1.15
+description: Plugin bridge dành cho FES Client
+commands:
+  testsocket:
